@@ -11,7 +11,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 ## Link to the application
 
-Check out the live demo: https://tmc.kishanlal.dev/
+Check out the live demo: https://tmc.pkulal.dev/
 
 If you can't find the movie you're searching for through auto-suggestions while typing, there's no need to worry. Simply type the name of the movie and press "enter". Even if you make some typos, it should still work fine.
 
