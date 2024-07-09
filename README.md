@@ -1,4 +1,9 @@
-# The-Movie-Recommendation-System-Using-Content Based Filtering
+<div align="center">
+  <h1 align="center">The-Movie-Recommendation-System-Using-Content Based Filtering</h1>  
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXpyejN5NXFyOWFza3hrcmFsbm50ZTlyYzM0ZGxvNHFpNnhjcDE1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7rc0qU6m5hneMsuc/giphy.webp" alt="The-Movie-Recommendation-System" />
+    
+</div>
+
 
 ![Python](https://img.shields.io/badge/Python-3.8-blueviolet)
 ![Framework](https://img.shields.io/badge/Framework-Flask-red)
@@ -15,6 +20,10 @@ Check out the live demo: https://tmc.pkulal.dev/
 
 If you can't find the movie you're searching for through auto-suggestions while typing, there's no need to worry. Simply type the name of the movie and press "enter". Even if you make some typos, it should still work fine.
 
+## How Content based filtering works?
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*H_MMnrpLQrqTSJHdDOCMoA.png" alt=" Content based filtering" /> 
+</div>
 
 
 ## How to get the API key?
